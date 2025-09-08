@@ -1,0 +1,72 @@
+{
+  "profesores": [
+    {
+      "nombre": "Roberto Mario",
+      "apellidos": "López",
+      "materias": [
+        {
+          "nombre": "NodeJS de Cero"
+        },
+        {
+          "nombre": "React de Cero"
+        },
+        {
+          "nombres": "JS de Cero"
+        },
+        {
+          "nombre": "Interfaces"
+        }
+      ],
+      "id": "2f86"
+    },
+    {
+      "0": {
+        "nombre": "Rosa",
+        "apellidos": "López",
+        "materias": [
+          {
+            "nombre": "Matemáticas"
+          },
+          {
+            "nombre": "Ingles"
+          }
+        ]
+      },
+      "id": "5bb7"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Mario",
+      "apellidos": "López",
+      "promedio": 9.5,
+      "id": "9c82"
+    },
+    {
+      "nombre": "Ramón",
+      "apellidos": "Gonzales",
+      "promedio": 8.5,
+      "id": "fc2e"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS de Cero",
+      "duración": 5,
+      "dificultad": "Intermedia",
+      "id": "dcce"
+    },
+    {
+      "nombre": "React de Cero",
+      "duración": 2,
+      "dificultad": "Intermedia",
+      "id": "9278"
+    },
+    {
+      "nombre": "JS de Cero",
+      "duración": 3,
+      "dificultad": "Intermedia",
+      "id": "85d4"
+    }
+  ]
+}

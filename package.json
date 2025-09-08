@@ -1,0 +1,14 @@
+{
+  "name": "project_json-server_nodejs",
+  "version": "0.0.1",
+  "description": "Pequeño servidor con información del curso NodeJS.",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Roberto Lopez",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
